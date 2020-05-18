@@ -129,4 +129,4 @@ panelPlot <- ggplot(data = meanImputing, aes(x = interval, y = steps)) +
         ggtitle("Average steps in 5-minute interval")
 print(panelPlot)
 ```
-
+d
